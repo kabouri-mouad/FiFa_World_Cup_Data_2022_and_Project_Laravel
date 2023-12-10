@@ -1,0 +1,215 @@
+create table Administrateur(
+	id_admin number not null,
+	email_admin varchar2(50) not null,
+	mdp_admin varchar2(50) not null,
+	nom_admin varchar2(50) not null,
+	prenom_admin varchar2(50) not null,
+	role_admin varchar2(10) not null,
+	primary key(id_admin)
+);
+create table Groupes(
+	id_groupe number not null,
+	nom_groupe char(1) not null,
+	id_admin number not null,
+	primary key(id_groupe),
+	foreign key(id_admin) references Administrateur(id_admin) ON DELETE CASCADE
+);
+create table Equipes(
+	id_equipe number not null,
+	nom_equipe varchar2(50) not null,
+	continenent varchar2(50) not null,
+	drapeau Blob not null,
+	id_groupe number not null,
+	primary key(id_equipe),
+	foreign key(id_groupe) references Groupes(id_groupe) ON DELETE CASCADE
+);
+create table Entraineurs(
+	id_entraineur number not null,
+	nom_entraineur varchar(50) not null,
+	prenom_entraineur varchar(50) not null,
+	annee_entrainer number(4,0) not null,
+	age_entraineur number(3,0) not null,
+	photo_entraineur Blob null,
+	id_equipe number not null,
+	primary key(id_entraineur),
+	foreign key(id_equipe) references Equipes(id_equipe) ON DELETE CASCADE
+);
+create table Stades(
+	id_stade number not null,
+	nom_stade varchar2(50) not null,
+	capacite_stade number not null,
+	ville_stade varchar2(50) not null,
+	pays_stade varchar2(50) not null,
+	photo_stade blob not null,
+	primary key(id_stade)
+);
+create table Arbitres(
+	id_arbitre number not null,
+	nom_arbitre varchar2(50) not null,
+	prenom_arbitre varchar2(50) not null,
+	nationalite_arbitre varchar2(50) not null,
+	position_arbitre varchar2(50) not null,
+	age_arbitre number(3,0) not null,
+	photo_arbitre Blob,
+	primary key(id_arbitre)
+);
+create table Joueurs(
+	id_joueur number not null,
+	numero_joueur number not null check(numero_joueur >= 1 and numero_joueur <= 99),
+	nom_joueur varchar2(50) not null,
+	prenom_joueur varchar2(50) not null,
+	position_joueur varchar2(50) not null,
+	age_joueur number(3,0) not null,
+	pays_origin varchar2(50) not null,
+	photo_joueur blob not null,
+	id_equipe number not null,
+	primary key(id_joueur),
+	foreign key(id_equipe) references Equipes(id_equipe) ON DELETE CASCADE
+);
+create table Matchs(
+	id_match number not null,
+	nom_phase varchar2(50),
+	id_stade number not null,
+	id_equipe1 number,
+	id_equipe2 number,
+	resultat varchar2(10),
+	id_vainqueur number not null,
+	horaire varchar2(100),
+	primary key(id_match),
+	constraint fk_equipe1 foreign key(id_equipe1) references Equipes(id_equipe) ON DELETE CASCADE,
+        constraint fk_equipe2 foreign key(id_equipe2) references Equipes(id_equipe) ON DELETE CASCADE,
+	constraint fk_vainqueur foreign key(id_vainqueur) references Equipes(id_equipe) ON DELETE CASCADE
+);
+create table ArbitreDuMatch(
+	id_match number not null,
+	id_arbitre number not null,
+	primary key(id_match,id_arbitre),
+	foreign key(id_match) references Matchs(id_match) ON DELETE CASCADE,
+	foreign key(id_arbitre) references Arbitres(id_arbitre) ON DELETE CASCADE
+);
+create table Punitions(
+	id_joueur number not null,
+	id_arbitre number not null,
+	id_match number not null,
+	type_punition varchar2(50) check(type_punition IN ('Carton jaune', 'Carton rouge')),
+	minute_punition number not null,
+	foreign key(id_joueur) references Joueurs(id_joueur) ON DELETE CASCADE,
+	foreign key(id_arbitre) references Arbitres(id_arbitre) ON DELETE CASCADE,
+	foreign key(id_match) references Matchs(id_match) ON DELETE CASCADE,
+	primary key(id_joueur,id_arbitre,id_match) 
+);
+create table Changement(
+	id_joueur1 number not null,
+	id_joueur2 number not null,
+	id_match number not null,
+	id_equipe number not null,
+	minute_changement number not null,
+	foreign key(id_joueur1) references Joueurs(id_joueur) ON DELETE CASCADE,
+	foreign key(id_joueur2) references Joueurs(id_joueur) ON DELETE CASCADE,
+	foreign key(id_match) references Matchs(id_match) ON DELETE CASCADE,
+	foreign key(id_equipe) references Equipes(id_equipe) ON DELETE CASCADE,
+	primary key(id_joueur1,id_joueur2,id_match,id_equipe)
+);
+create table Buts(
+	id_but number not null,
+	minute_but number not null,
+	type_but char(1) not null,
+	id_joueur number not null,
+	id_match number not null,
+	primary key(id_but),
+	foreign key(id_joueur) references Joueurs(id_joueur) ON DELETE CASCADE,
+	foreign key(id_match) references Matchs(id_match) ON DELETE CASCADE
+);
+============================================================================================
+les sequences : 
+CREATE SEQUENCE "SEQ_ADMINISTRATEUR"
+	MINVALUE 1
+	MAXVALUE 1000
+	INCREMENT BY 1
+	START WITH 1
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_GROUPES"
+	MINVALUE 1
+	MAXVALUE 1000
+	INCREMENT BY 1
+	START WITH 1
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_EQUIPES"
+	MINVALUE 1
+	MAXVALUE 10000000
+	INCREMENT BY 1
+	START WITH 1
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_ENTRAINEURS"
+	MINVALUE 1
+	MAXVALUE 10000000
+	INCREMENT BY 1
+	START WITH 1
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_STADES"
+	MINVALUE 1
+	MAXVALUE 10000000
+	INCREMENT BY 1
+	START WITH 11
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_ARBITRES"
+	MINVALUE 1
+	MAXVALUE 10000000
+	INCREMENT BY 1
+	START WITH 1
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_JOUEURS"
+	MINVALUE 1
+	MAXVALUE 10000000000
+	INCREMENT BY 1
+	START WITH 707
+	CACHE 20
+
+CREATE SEQUENCE "SEQ_MATCHS"
+	MINVALUE 1
+	MAXVALUE 10000000000
+	INCREMENT BY 1
+	START WITH 56
+	CACHE 20
+
+// Changement 
+
+create table Entraineurs(
+	id_entraineur number not null,
+	nom_entraineur varchar(50) not null,
+	prenom_entraineur varchar(50) not null,
+	annee_entrainer NUMBER(4),
+	id_equipe number not null,
+	primary key(id_entraineur),
+	foreign key(id_equipe) references Equipes(id_equipe) ON DELETE CASCADE
+);
+
+create table Equipes(
+	id_equipe number not null,
+	nom_equipe varchar2(50) not null,
+	classement_fifa number not null,
+	continenent varchar2(50) not null,
+	id_groupe number not null,
+	primary key(id_equipe),
+	foreign key(id_groupe) references Groupes(id_groupe) ON DELETE CASCADE
+);
+
+Create table Test(
+	id number not null,
+	nom varchar2(50) not null,
+	primary key(id),
+);
+
+
+
+
+
+
+
+

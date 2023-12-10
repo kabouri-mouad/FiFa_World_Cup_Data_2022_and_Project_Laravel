@@ -1,0 +1,705 @@
+ID_JOUEUR,NUMERO_JOUEUR,NOM_JOUEUR,PRENOM_JOUEUR,POSITION_JOUEUR,AGE_JOUEUR,PHOTO_JOUEUR,ID_EQUIPE
+1,1,Hugo,Lloris ,Gardien,25,,16
+2,2,Benjamin,Pavard ,Défenseur,25,,16
+3,3,Axel,Disasi ,Défenseur,25,,16
+4,4,Raphaël,Varane ,Défenseur,25,,16
+5,5,Jules,Koundé ,Défenseur,25,,16
+6,6,Matteo,Guendouzi ,Milieu,25,,16
+7,7,Antoine,Griezmann ,Attaquant,25,,16
+8,8,Aurélien,Tchouaméni ,Milieu,25,,16
+9,9,Olivier,Giroud ,Attaquant,25,,16
+10,10,Kylian,Mbappé ,Attaquant,25,,16
+11,11,Ousmane,Dembélé ,Attaquant,25,,16
+12,12,Randal,Kolo,Milieu,25,,16
+13,13,Youssouf,Fofana ,Milieu,25,,16
+14,14,Adrien,Rabiot ,Milieu,25,,16
+15,15,Jordan,Veretout ,Milieu,25,,16
+16,16,Steve,Mandanda ,Gardien,25,,16
+17,17,William,Saliba ,Défenseur,25,,16
+18,18,Dayot,Upamecano ,Défenseur,25,,16
+19,20,Kingsley,Coman ,Attaquant,25,,16
+20,21,Lucas,Hernandez ,Défenseur,25,,16
+21,22,Théo,Hernandez ,Défenseur,25,,16
+22,23,Alphonse,Areola ,Gardien,25,,16
+23,24,Ibrahima,Konaté ,Défenseur,25,,16
+24,25,Eduardo,Camavinga ,Milieu,25,,16
+25,26,Marcus,Thuram ,Attaquant,25,,16
+26,1,Manuel,Neuer ,Gardien,25,,1
+27,2,Antonio,Rüdiger ,Défenseur,25,,1
+28,3,David,Raum ,Défenseur,25,,1
+29,4,Matthias,Ginter ,Défenseur,25,,1
+30,5,Thilo,Kehrer ,Défenseur,25,,1
+31,6,Joshua,Kimmich ,Milieu,25,,1
+32,7,Kai,Havertz ,Milieu,25,,1
+33,8,Leon,Goretzka ,Milieu,25,,1
+34,9,Niclas,Fullkrug ,Attaquant,25,,1
+35,10,Serge,Gnabry ,Milieu,25,,1
+36,11,Mario,Götze ,Milieu,25,,1
+37,12,Kevin,Trapp ,Gardien,25,,1
+38,13,Thomas,Müller ,Attaquant,25,,1
+39,14,Jamal,Musiala ,Milieu,25,,1
+40,15,Niklas,Süle ,Défenseur,25,,1
+41,16,Lukas,Klostermann,Défenseur,25,,1
+42,17,Julian,Brandt,Milieu,25,,1
+43,18,Jonas,Hofmann,Milieu,25,,1
+44,19,Leroy,Sané,Attaquant,25,,1
+45,20,Christian,Günter,Défenseur,25,,1
+46,21,Ilkay,Gündogan,Milieu,25,,1
+47,22,Marc-André,TerStegen,Gardien,25,,1
+48,23,Nico,Schlotterbeck,Défenseur,25,,1
+49,24,Karim,Adeyemi,Attaquant,25,,1
+50,25,Armel,Bella-Kotchap,Défenseur,25,,1
+51,26,Youssoufa,Moukoko,Attaquant,25,,1
+52,1,Jordan,Pickford,Gardien,25,,21
+53,2,Kyle,Walker,Défenseur,25,,21
+54,3,Luke,Shaw,Défenseur,25,,21
+55,4,Declan,Rice,Milieu,25,,21
+56,5,John,Stones,Défenseur,25,,21
+57,6,Harry,Maguire,Défenseur,25,,21
+58,7,Jack,Grealish,Milieu,25,,21
+59,8,Jordan,Henderson,Milieu,25,,21
+60,9,Harry,Kane,Attaquant,25,,21
+61,10,Raheem,Sterling,Attaquant,25,,21
+62,11,Marcus,Rashford,Attaquant,25,,21
+63,12,Kieran,Trippier,Défenseur,25,,21
+64,13,Nick,Pope,Gardien,25,,21
+65,14,Kalvin,Phillips,Milieu,25,,21
+66,15,Eric,Dier,Défenseur,25,,21
+67,16,Conor,Coady,Défenseur,25,,21
+68,17,Bukayo,Saka,Milieu,25,,21
+69,18,Trent,Alexander-Arnold,Défenseur,25,,21
+70,19,Mason,Mount,Milieu,25,,21
+71,20,Phil,Foden,Milieu,25,,21
+72,21,Ben,White,Défenseur,25,,21
+73,22,Jude,Bellingham,Milieu,25,,21
+74,23,Aaron,Ramsdale,Gardien,25,,21
+75,24,Callum,Wilson,Attaquant,25,,21
+76,25,James,Maddison,Attaquant,25,,21
+77,26,Conor,Gallagher,Milieu,25,,21
+78,1,Robert,Sanchez,Gardien,25,,19
+79,2,Cesar,Azpilicueta,Défenseur,25,,19
+80,3,Eric,Garcia,Défenseur,25,,19
+81,4,Pau,Torres,Défenseur,25,,19
+82,5,Sergio,Busquets,Milieu,25,,19
+83,6,Marcos,Llorente,Milieu,25,,19
+84,7,Alvaro,Morata,Attaquant,25,,19
+85,7,Alvaro,Morata,Attaquant,25,,19
+86,8,KOKE,KOKE,Milieu,25,,19
+87,10,Marco,Asensio,Attaquant,25,,19
+88,11,Ferran,Torres,Milieu,25,,19
+89,12,Nico,Williams,Attaquant,25,,19
+90,13,David,Raya,Gardien,25,,19
+91,14,José,Gaya,Défenseur,25,,19
+92,14,Alejandro,Balde ,Défenseur,25,,19
+93,15,Hugo,Guillamon ,Défenseur,25,,19
+95,17,Yeremi,Pino,Attaquant,25,,19
+96,18,Jordi,Alba,Défenseur,25,,19
+97,19,Carlos,Soler,Milieu,25,,19
+98,20,Dani,Carvajal,Défenseur,25,,19
+99,21,Dani,Olmo,Attaquant,25,,19
+100,22,Pablo,Sarabia,Milieu,25,,19
+101,23,Unai,Simon,Gardien,25,,19
+102,24,Aymeric,Laporte,Défenseur,25,,19
+103,25,Ansu,Fati,Attaquant,25,,19
+104,26,Pedri,PEDRI,Milieu,25,,19
+105,26,Mouez,Hassen ,Gardien,25,,4
+106,2,Luiz,Danilo,Defenseur,25,,8
+107,3,Thiago,Silva,Defenseur,25,,8
+108,4,Marquinhos,!,Defenseur,25,,8
+109,5,Casemiro,!,Milieu,25,,8
+110,6,Alex,Sandro,Defenseur,25,,8
+111,7,Lucas,Paqueta,Milieu,25,,8
+112,8,Fred,!,Milieu,25,,8
+113,9,Richarlison,!,Attaquant,25,,8
+114,10,Neymar,!,Attaquant,25,,8
+115,11,Raphinha,!,Attaquant,25,,8
+116,12,Weverton,!,Gardien,25,,8
+117,13,Daniel,Alves,Defenseur,25,,8
+118,14,Eder,Militao,Defenseur,25,,8
+119,15,Fabinho,!,Milieu,25,,8
+120,16,Alex,Telles,Defenseur,25,,8
+121,17,Bruno,Guimaraes,Milieu,25,,8
+122,18,Gabriel,Jesus,Attaquant,25,,8
+123,19,Antony,gabriel,Attaquant,25,,8
+124,20,Vinicius,Junior ,Attaquant,25,,8
+125,21,Rodrygo,vini,Attaquant,25,,8
+126,22,Everton,Ribeiro ,Milieu,25,,8
+127,23,Ederson ,!,Gardien,25,,8
+128,24,Gleison,Bremer ,Defenseur,25,,8
+129,25,dos,Santos,Milieu,25,,8
+130,26,Gabriel,Martinelli ,Attaquant,25,,8
+131,1,Dominik,Livakovic ,Gardien,25,,18
+132,2,Josip,Stanisic ,Défenseur,25,,18
+133,3,Borna,Barisic ,Défenseur,25,,18
+134,4,Ivan,Perisic ,Attaquant,25,,18
+135,5,Martin,Erlic ,Défenseur,25,,18
+136,6,Dejan,Lovren ,Défenseur,25,,18
+137,7,Lovro,Majer ,Milieu,25,,18
+138,8,Mateo,Kovacic ,Milieu,25,,18
+139,9,Andrej,Kramaric ,Attaquant,25,,18
+140,10,Luka,Modric ,Milieu,25,,18
+141,11,Marcelo,Brozovic ,Milieu,25,,18
+142,12,Ivo,Grbic ,Gardien,25,,18
+143,13,Nikola,Vlasic ,Milieu,25,,18
+144,14,Marko,Livaja ,Attaquant,25,,18
+145,15,Mario,Pasalic ,Milieu,25,,18
+146,16,Bruno,Petkovic ,Attaquant,25,,18
+147,17,Ante,Budimir ,Attaquant,25,,18
+148,18,Mislav,Orsic ,Attaquant,25,,18
+149,19,Borna,Sosa ,Défenseur,25,,18
+150,20,Josko,Gvardiol ,Défenseur,25,,18
+151,21,Domagoj,Vida ,Défenseur,25,,18
+152,22,Josip,Juranovic ,Défenseur,25,,18
+153,23,Ivica,Ivusic ,Gardien,25,,18
+154,24,Josip,Sutalo ,Défenseur,25,,18
+155,25,Luka,Sucic ,Milieu,25,,18
+156,26,Kristijan,Jakic ,Milieu,25,,18
+157,1,Alfredo,Talavera ,Gardien,25,,28
+158,2,Nestor,Araujo ,Defenseur,25,,28
+159,3,César,Montes ,Defenseur,25,,28
+160,4,Edson,Alvarez ,Defenseur,25,,28
+161,5,Johan,Vásquez ,Defenseur,25,,28
+162,6,Gerardo,Arteaga ,Defenseur,25,,28
+163,7,Luis,Romo ,Defenseur,25,,28
+164,8,Carlos,Rodriguez ,Attaquant,25,,28
+165,9,Raul,Jimenez ,Attaquant,25,,28
+166,10,Alexis,Vega ,Attaquant,25,,28
+167,11,Rogelio,Funes,Avant-centre,25,,28
+168,12,Rodolfo,Cota ,Gardien,25,,28
+169,13,Guillermo,Ochoa ,Gardien,25,,28
+170,14,Erick,Gutiérrez ,Milieu,25,,28
+171,15,Hector,Moreno ,Defenseur,25,,28
+172,16,Hector,Herrera ,Milieu,25,,28
+173,17,Orbelín,Pineda ,Milieu,25,,28
+174,18,Andres,Guardado ,Milieu,25,,28
+175,19,Jorge,Sánchez ,Defenseur,25,,28
+176,20,Henry,Martin ,Attaquant,25,,28
+177,21,Uriel,Antuna ,Milieu,25,,28
+178,22,Hirving,Lozano ,Attaquant,25,,28
+179,23,Jesus,Gallardo ,Defenseur,25,,28
+180,24,Luis,Chavez ,Milieu,25,,28
+181,25,Roberto,Alvarado ,Milieu,25,,28
+182,26,Kevin,Alvarez ,Defenseur,25,,28
+183,1,Simon,Ngapandouetnbu ,Gardien,25,,3
+184,2,Jerome,Ngom ,Milieu,25,,3
+185,3,Nicolas,Nkoulou ,Defenseur,25,,3
+186,4,Christopher,Wooh ,Defenseur,25,,3
+187,5,Gael,Ondoua ,Milieu,25,,3
+188,6,Nicolas,Ngamaleu ,Milieu,25,,3
+189,7,Georges-Kevin,Nkoudou ,Attaquant,25,,3
+190,8,Franck,Zambo,Attaquant,25,,3
+191,9,Jean-Pierre,Nsame ,Attaquant,25,,3
+192,10,Vincent,Aboubakar ,Attaquant,25,,3
+193,11,Christian,Bassogog ,Attaquant,25,,3
+194,12,Karl,Toko-Ekambi ,Attaquant,25,,3
+195,13,Eric,Choupo-Moting ,Attaquant,25,,3
+196,14,Samuel,Gouet ,Milieu,25,,3
+197,15,Pierre,Kunde ,Milieu,25,,3
+198,16,Devis,Epassy ,Gardien,25,,3
+199,17,Olivier,Mbaizo ,Defenseur,25,,3
+200,18,Martin,Hongla ,Milieu,25,,3
+201,19,Collins,Fai ,Defenseur,25,,3
+202,20,Bryan,Mbeumo ,Attaquant,25,,3
+203,21,Jean-Charles,Castelletto ,Defenseur,25,,3
+204,22,Olivier,Ntcham ,Milieu,25,,3
+205,23,André,Onana ,Gardien,25,,3
+206,24,Enzo,Ebosse ,Defenseur,25,,3
+207,25,Nouhou,Tolo ,Defenseur,25,,3
+208,26,Souaibou,Marou ,Attaquant,25,,3
+209,1,Remko,Pasveer ,Gardien,25,,22
+210,2,Jurriën,Timber ,Defenseur,25,,22
+211,3,Matthijs,de,Defenseur,25,,22
+212,4,Virgil,vandijk,Defenseur,25,,22
+213,5,Nathan,Aké ,Defenseur,25,,22
+214,6,Stefan,de,Attaquant,25,,22
+215,7,Steven,Bergwijn ,Attaquant,25,,22
+216,8,Cody,Gakpo ,Milieu,25,,22
+217,9,Luuk,de,Attaquant,25,,22
+218,10,Memphis,Depay ,Attaquant,25,,22
+219,11,Steven,Berghuis ,Milieu,25,,22
+220,12,Noa,Lang ,Attaquant,25,,22
+221,13,Justin,Bijlow ,Gardien,25,,22
+222,14,Davy,Klaassen ,Milieu,25,,22
+223,15,Marten,de,Milieu,25,,22
+224,16,Tyrell,Malacia ,Defenseur,25,,22
+225,17,Daley,Blind ,Defenseur,25,,22
+226,18,Vincent,Janssen ,Attaquant,25,,22
+227,19,Wout,Weghorst ,Attaquant,25,,22
+228,20,Teun,Koopmeiners ,Milieu,25,,22
+229,21,Frenkie,deJONG,Milieu,25,,22
+230,22,Denzel,Dumfries ,Defenseur,25,,22
+231,23,Andries,Noppert ,Gardien,25,,22
+232,24,Kenneth,Taylor ,Milieu,25,,22
+233,25,Xavi,Simons ,Milieu,25,,22
+234,26,Jeremie,Frimpong ,Defenseur,25,,22
+235,1,Mathew,Ryan ,Gardien,25,,26
+236,2,Milos,Degenek ,Defenseur,25,,26
+237,3,Nathaniel,Atkinson ,Defenseur,25,,26
+238,4,Kye,Rowles ,Defenseur,25,,26
+239,5,Fran,Karacic ,Defenseur,25,,26
+240,6,Martin,Boyle ,Milieu,25,,26
+241,7,Matthew,Leckie ,Attaquant,25,,26
+242,8,Bailey,Wright ,Defenseur,25,,26
+243,9,Jamie,MacLaren ,Attaquant,25,,26
+244,10,Ajdin,Hrustic ,Milieu,25,,26
+245,11,Awer,Mabil ,Attaquant,25,,26
+246,12,Andrew,Redmayne ,Gardien,25,,26
+247,13,Aaron,Mooy ,Milieu,25,,26
+248,14,Riley,McGree ,Milieu,25,,26
+249,15,Mitchell,Duke ,Attaquant,25,,26
+250,16,Aziz,Behich ,Defenseur,25,,26
+251,17,Cameron,Devlin ,Milieu,25,,26
+252,18,Daniel,Vukovic ,Gardien,25,,26
+253,19,Harry,Souttar ,Defenseur,25,,26
+254,20,Thomas,Deng ,Defenseur,25,,26
+255,21,Garang,Kuol ,Attaquant,25,,26
+256,22,Jackson,Irvine ,Milieu,25,,26
+257,23,Craig,Goodwin ,Attaquant,25,,26
+258,24,Joel,King ,Defenseur,25,,26
+259,25,Jason,Cummings ,Attaquant,25,,26
+260,26,Keanu,Baccus ,Milieu,25,,26
+265,1,Keylor,Navas ,Gardien,25,,27
+266,2,Daniel,Chacon ,Defenseur,25,,27
+267,3,Juan,Pablo,Defenseur,25,,27
+268,4,Keysher,Fuller ,Defenseur,25,,27
+269,5,Celso,Borges ,Milieu,25,,27
+270,6,Oscar,Duarte ,Defenseur,25,,27
+271,7,Anthony,Contreras ,Attaquant,25,,27
+272,8,Bryan,Oviedo ,Defenseur,25,,27
+273,9,Jewison,Bennette ,Milieu,25,,27
+274,10,Bryan,Ruiz ,Milieu,25,,27
+275,11,Johan,Venegas ,Attaquant,25,,27
+276,12,Joel,Campbell ,Attaquant,25,,27
+277,13,Gerson,Torres ,Milieu,25,,27
+278,14,Youstin,Salas ,Milieu,25,,27
+279,15,Francisco,Calvo ,Defenseur,25,,27
+280,16,Carlos,Martinez ,Defenseur,25,,27
+281,17,Yeltsin,Tejeda ,Milieu,25,,27
+282,18,Esteban,Alvarado ,Gardien,25,,27
+283,19,Kendall,Waston ,Defenseur,25,,27
+284,20,Brandon,Aguilera ,Milieu,25,,27
+285,21,Douglas,Lopez ,Milieu,25,,27
+286,22,Ronald,Matarrita ,Defenseur,25,,27
+287,23,Patrick,Sequeira ,Gardien,25,,27
+288,24,Roan,Wilson ,Milieu,25,,27
+289,25,Anthony,Hernandez ,Milieu,25,,27
+290,26,Alvaro,Zamora ,Milieu,25,,27
+291,1,Eiji,Kawashima ,Gardien,25,,13
+292,2,Miki,Yamane ,Defenseur,25,,13
+293,3,Shogo,Taniguchi ,Defenseur,25,,13
+294,4,Ko,Itakura ,Defenseur,25,,13
+295,5,Yuto,Nagatomo ,Defenseur,25,,13
+296,6,Wataru,Endo ,Milieu,25,,13
+297,7,Gaku,Shibasaki ,Milieu,25,,13
+298,8,Ritsu,Doan ,Milieu,25,,13
+299,9,Kaoru,Mitoma ,Milieu,25,,13
+300,10,Takumi,Minamino ,Milieu,25,,13
+301,11,Takefusa,Kubo ,Milieu,25,,13
+302,12,Shuichi,Gonda ,Gardien,25,,13
+303,13,Hidemasa,Morita ,Milieu,25,,13
+304,14,Junya,Ito ,Milieu,25,,13
+305,15,Daichi,Kamada ,Milieu,25,,13
+306,16,Takehiro,Tomiyasu ,Defenseur,25,,13
+307,17,Ao,Tanaka ,Milieu,25,,13
+308,18,Takuma,Asano ,Attaquant,25,,13
+309,19,Hiroki,Sakai ,Defenseur,25,,13
+310,20,Shuto,Machino ,Attaquant,25,,13
+311,21,Ayase,Ueda ,Attaquant,25,,13
+312,22,Maya,Yoshida ,Defenseur,25,,13
+313,23,Daniel,Schmidt ,Gardien,25,,13
+314,24,Yuki,Soma ,Milieu,25,,13
+315,25,Daizen,Maeda ,Attaquant,25,,13
+316,26,Hiroki,Ito ,Defenseur,25,,13
+317,1,Yann,Sommer ,Gardien,25,,23
+318,2,Edimilson,Fernandes ,Defenseur,25,,23
+319,3,Silvan,Widmer ,Defenseur,25,,23
+320,4,Nico,Elvedi ,Defenseur,25,,23
+321,5,Manuel,Akanji ,Defenseur,25,,23
+322,6,Denis,Zakaria ,Milieu,25,,23
+323,7,Breel,Embolo ,Attaquant,25,,23
+324,8,Remo,Freuler ,Milieu,25,,23
+325,9,Haris,Seferovic ,Attaquant,25,,23
+326,10,Granit,Xhaka ,Milieu,25,,23
+327,11,Renato,Steffen ,Milieu,25,,23
+328,12,Jonas,Omlin ,Gardien,25,,23
+329,13,Ricardo,Rodriguez ,Defenseur,25,,23
+330,14,Michel,Aebischer ,Milieu,25,,23
+331,15,Djibril,Sow ,Attaquant,25,,23
+332,16,Christian,Fassnacht ,Attaquant,25,,23
+333,17,Ruben,Vargas ,Attaquant,25,,23
+334,18,Eray,Cömert ,Defenseur,25,,23
+335,19,Noah,Okafor ,Attaquant,25,,23
+336,20,Fabian,Frei ,Milieu,25,,23
+337,21,Gregor,Kobel ,Gardien,25,,23
+338,22,Fabian,Schär ,Defenseur,25,,23
+339,23,Xherdan,Shaqiri ,Milieu,25,,23
+340,24,Philipp,Kohn ,Gardien,25,,23
+341,25,Fabian,Rieder ,Milieu,25,,23
+342,26,Ardon,Jashari ,Milieu,25,,23
+
+
+343,1,Hernan,Galindez ,Gardien,25,,10
+344,2,Félix,Torres ,Milieu,25,,10
+345,3,Piero,Hincapié ,Défenseur,25,,10
+346,4,Robert,Arboleda ,Défenseur,25,,10
+347,5,José,Cifuentes ,Milieu,25,,10
+348,6,William,Pacho ,Défenseur,25,,10
+349,7,Pervis,Estupinan ,Défenseur,25,,10
+350,8,Carlos,Gruezo ,Milieu,25,,10
+351,9,Ayrton,Preciado ,Attaquant,25,,10
+352,10,Romario,Ibarra ,Attaquant,25,,10
+353,11,Michael,Estrada ,Attaquant,25,,10
+354,12,Moisés,Ramirez ,Gardien,25,,10
+355,13,Enner,Valencia ,Attaquant,25,,10
+356,14,Xavier,Arreaga ,Défenseur,25,,10
+357,15,Angel,Mena ,Milieu,25,,10
+358,16,Jeremy,Sarmiento ,Attaquant,25,,10
+359,17,Angelo,Preciado ,Défenseur,25,,10
+360,18,Diego,Palacios ,Défenseur,25,,10
+361,19,Gonzalo,Plata ,Attaquant,25,,10
+362,20,Jhegson,Méndez ,Milieu,25,,10
+363,21,Alan,Franco ,Milieu,25,,10
+364,22,Alexander,Dominguez ,Gardien,25,,10
+365,23,Moisés,Caicedo ,Milieu,25,,10
+366,24,Djorkaeff,Reasco ,Attaquant,25,,10
+367,25,Jackson,Porozo ,Défenseur,25,,10
+368,26,Kevin,Rodriguez ,Milieu,25,,10
+369,1,Alireza,Beiranvand ,Gardien,25,,12
+370,2,Sadegh,Moharrami ,Défenseur,25,,12
+371,3,Ehsan,Hajsafi ,Défenseur,25,,12
+372,4,Shojae,Khalilzadeh ,Défenseur,25,,12
+373,5,Milad,Mohammadi ,Défenseur,25,,12
+374,6,Saeid,Ezatolahi ,Milieu,25,,12
+375,7,Alireza,Jahanbakhsh ,Attaquant,25,,12
+376,8,Morteza,Pouraliganji ,Défenseur,25,,12
+377,9,Mehdi,Taremi ,Attaquant,25,,12
+378,10,Karim,Ansarifard ,Milieu,25,,12
+379,11,Vahid,Amiri ,Attaquant,25,,12
+380,12,Payam,Niazmand ,Gardien,25,,12
+381,13,Hossein,Kanani ,Défenseur,25,,12
+382,14,Saman,Ghoddos ,Attaquant,25,,12
+383,15,Rouzbeh,Cheshmi ,Défenseur,25,,12
+384,16,Mehdi,Torabi ,Milieu,25,,12
+385,17,Ali,Gholizadeh ,Milieu,25,,12
+386,18,Ali,Karimi ,Milieu,25,,12
+387,19,Majid,Hosseini ,Défenseur,25,,12
+388,20,Sardar,Azmoun ,Attaquant,25,,12
+389,21,Ahmad,Noorollahi ,Milieu,25,,12
+390,22,Amir,Abedzadeh ,Gardien,25,,12
+391,23,Ramin,Rezaeian ,Défenseur,25,,12
+392,24,Hossein,Hosseini ,Gardien,25,,12
+393,25,Abolfazl,Jalali ,Défenseur,25,,12
+394,1,Matt,Turner ,Gardien,25,,7
+395,2,Sergino,Dest ,Defenseur,25,,7
+396,3,Walker,Zimmerman ,Defenseur,25,,7
+397,4,Tyler,Adams ,Milieu,25,,7
+398,5,Antonee,Robinson ,Defenseur,25,,7
+399,6,Yunus,Musah ,Milieu,25,,7
+400,7,Gio,Reyna ,Attaquant,25,,7
+401,8,Weston,McKennie ,Milieu,25,,7
+402,9,Jesus,Ferreira ,Attaquant,25,,7
+403,10,Christian,Pulisic ,Attaquant,25,,7
+404,11,Brenden,Aaronson ,Milieu,25,,7
+405,12,Ethan,Horvath ,Gardien,25,,7
+406,13,Tim,Ream ,Defenseur,25,,7
+407,14,Lucas,De,Milieu,25,,7
+408,15,Aaron,Long ,Defenseur,25,,7
+409,16,Jordan,Morris ,Attaquant,25,,7
+410,17,Cristian,Roldan ,Milieu,25,,7
+411,18,Shaquell,Moore ,Defenseur,25,,7
+412,19,Haji,Wright ,Attaquant,25,,7
+413,20,Cameron,Carter-Vickers ,Defenseur,25,,7
+414,21,Timothy,Weah ,Attaquant,25,,7
+415,22,DeAndre,Yedlin ,Defenseur,25,,7
+416,23,Kellyn,Acosta ,Milieu,25,,7
+417,24,Joshua,Sargent ,Attaquant,25,,7
+418,25,Sean,Johnson ,Gardien,25,,7
+419,26,Joe,Scally ,Defenseur,25,,7
+420,1,Thibaut,Courtois ,Gardien,25,,17
+421,2,Toby,Alderweireld ,Défenseur,25,,17
+422,3,Arthur,Theate ,Défenseur,25,,17
+423,4,Wout,Faes ,Défenseur,25,,17
+424,5,Jan,Vertonghen ,Défenseur,25,,17
+425,6,Axel,Witsel ,Milieu,25,,17
+426,7,Kevin,DeBruyne,Milieu,25,,17
+427,8,Youri,Tielemans ,Milieu,25,,17
+428,9,Romelu,Lukaku ,Attaquant,25,,17
+429,10,Eden,Hazard ,Milieu,25,,17
+430,11,Yannick,Carrasco ,Milieu,25,,17
+431,12,Simon,Mignolet ,Gardien,25,,17
+432,13,Koen,Casteels ,Gardien,25,,17
+433,14,Dries,Mertens ,Milieu,25,,17
+434,15,Thomas,Meunier ,Défenseur,25,,17
+435,16,Thorgan,Hazard ,Milieu,25,,17
+436,17,Leandro,Trossard ,Attaquant,25,,17
+437,18,Amadou,Onana ,Milieu,25,,17
+438,19,Leander,Dendoncker ,Défenseur,25,,17
+439,20,Hans,Vanaken ,Milieu,25,,17
+440,21,Timothy,Castagne ,Milieu,25,,17
+441,22,Charles,De,Attaquant,25,,17
+442,23,Michy,Batshuayi ,Attaquant,25,,17
+443,24,Lois,Openda ,Attaquant,25,,17
+444,25,Jérémy,Doku ,Attaquant,25,,17
+445,26,Zeno,Debast ,Défenseur,25,,17
+446,1,Wayne,Hennessey ,Gardien,25,,24
+447,2,Chris,Gunter ,Defenseur,25,,24
+448,3,Neco,Williams ,Defenseur,25,,24
+449,4,Ben,Davies ,Defenseur,25,,24
+450,5,Chris,Mepham ,Defenseur,25,,24
+451,6,Joe,Rodon ,Defenseur,25,,24
+452,7,Joe,Allen ,Milieu,25,,24
+453,8,Harry,Wilson ,Attaquant,25,,24
+454,9,Brennan,Johnson ,Attaquant,25,,24
+455,10,Aaron,Ramsey ,Milieu,25,,24
+456,11,Gareth,Bale ,Attaquant,25,,24
+457,12,Danny,Ward ,Gardien,25,,24
+458,13,Kieffer,Moore ,Attaquant,25,,24
+459,14,Connor,Roberts ,Defenseur,25,,24
+460,15,Ethan,Ampadu ,Milieu,25,,24
+461,16,Joe,Morrell ,Milieu,25,,24
+462,17,Tom,Lockyer ,Defenseur,25,,24
+463,18,Jonathan,Williams ,Milieu,25,,24
+464,19,Mark,Harris ,Attaquant,25,,24
+465,20,Daniel,James ,Milieu,25,,24
+466,21,Adam,Davies ,Gardien,25,,24
+467,22,Sorba,Thomas ,Attaquant,25,,24
+468,23,Dylan,Levitt ,Milieu,25,,24
+469,24,Ben,Cabango ,Defenseur,25,,24
+470,25,Rubin,Colwill ,Milieu,25,,24
+471,26,Matthew,Smith ,Milieu,25,,24
+472,1,Marko,Dmitrovic ,Gardien,25,,20
+473,2,Strahinja,Pavlovic ,Défenseur,25,,20
+474,3,Strahinja,Erakovic ,Défenseur,25,,20
+475,4,Nikola,Milenkovic ,Défenseur,25,,20
+476,5,Milos,Veljkovic ,Défenseur,25,,20
+477,6,Nemanja,Maksimovic ,Milieu,25,,20
+478,7,Nemanja,Radonjic ,Attaquant,25,,20
+479,8,Nemanja,Gudelj ,Milieu,25,,20
+480,9,Aleksandar,Mitrovic ,Attaquant,25,,20
+481,10,Dusan,Tadic ,Milieu,25,,20
+482,11,Luka,Jovic ,Attaquant,25,,20
+483,12,Predrag,Rajkovic ,Gardien,25,,20
+484,13,Stefan,Mitrovic ,Défenseur,25,,20
+485,14,Andrija,Zivkovic ,Milieu,25,,20
+486,15,Srdjan,Babic ,Défenseur,25,,20
+487,16,Sasa,Lukic ,Milieu,25,,20
+488,17,Filip,Kostic ,Milieu,25,,20
+489,18,Dusan,Vlahovic ,Attaquant,25,,20
+490,19,Uros,Racic ,Milieu,25,,20
+491,20,Sergej,Milinkovic-Savic ,Milieu,25,,20
+492,21,Filip,Duricic ,Attaquant,25,,20
+493,22,Darko,Lazovic ,Milieu,25,,20
+494,23,Vanja,Milinkovic-Savic ,Gardien,25,,20
+495,24,Ivan,Ilic ,Milieu,25,,20
+496,25,Filip,Mladenovic ,Défenseur,25,,20
+497,26,Marko,Grujic ,Milieu,25,,20
+498,1,Franco,Armani ,Gardien,25,,9
+499,2,Juan,Foyth ,Defenseur,25,,9
+500,3,Nicolas,Tagliafico ,Defenseur,25,,9
+501,4,Gonzalo,Montiel ,Defenseur,25,,9
+502,5,Leandro,Paredes ,Milieu,25,,9
+503,6,German,Pezzella ,Defenseur,25,,9
+504,7,Rodrigo,DePaul,Milieu,25,,9
+505,8,Marcos,Acuña ,Milieu,25,,9
+506,9,Julian,Alvarez ,Attaquant,25,,9
+507,10,Lionel,Messi ,Attaquant,25,,9
+508,11,Angel,DiMaria,Attaquant,25,,9
+509,12,Geronimo,Rulli ,Gardien,25,,9
+510,13,Cristian,Romero ,Defenseur,25,,9
+511,14,Exequiel,Palacios ,Milieu,25,,9
+512,15,Nicolas,Gonzalez ,Attaquant,25,,9
+513,15,Angel,Correa ,Attaquant,25,,9
+514,16,Thiago,Almada ,Attaquant,25,,9
+515,17,Papu,Gomez ,Milieu,25,,9
+516,18,Guido,Rodriguez ,Milieu,25,,9
+517,19,Nicolas,Otamendi ,Defenseur,25,,9
+518,20,Alexis,MacAllister,Milieu,25,,9
+519,21,Paulo,Dybala ,Attaquant,25,,9
+520,22,Lautaro,Martinez ,Attaquant,25,,9
+521,23,Emiliano,Martinez ,Gardien,25,,9
+522,24,Enzo,Fernandez ,Milieu,25,,9
+523,25,Lisandro,Martinez ,Defenseur,25,,9
+524,26,Nahuel,Molina ,Defenseur,25,,9
+
+525,1,Dayne,StClair,Gardien,25,,6
+526,2,Alistair,Johnston ,Défenseur,25,,6
+527,3,Sam,Adekugbe ,Défenseur,25,,6
+528,4,Kamal,Miller ,Défenseur,25,,6
+529,5,Steven,Vitoria ,Défenseur,25,,6
+530,6,Samuel,Piette ,Milieu,25,,6
+531,7,Stephen,Eustáquio ,Milieu,25,,6
+532,8,Liam,Fraser ,Milieu,25,,6
+533,9,Lucas,Cavallini ,Attaquant,25,,6
+534,10,Junior,Hoilett ,Attaquant,25,,6
+535,11,Tajon,Buchanan ,Attaquant,25,,6
+536,12,Iké,Ugbo ,Attaquant,25,,6
+537,13,Atiba,Hutchinson ,Milieu,25,,6
+538,14,Mark-Anthony,Kaye ,Milieu,25,,6
+539,15,Ismaël,Koné ,Milieu,25,,6
+540,16,James,Pantemis ,Gardien,25,,6
+541,17,Cyle,Larin ,Attaquant,25,,6
+542,18,Milan,Borjan ,Gardien,25,,6
+543,19,Alphonso,Davies ,Attaquant,25,,6
+544,20,Jonathan,David ,Attaquant,25,,6
+545,21,Jonathan,Osorio ,Milieu,25,,6
+546,22,Richie,Laryea ,Défenseur,25,,6
+547,23,Liam,Millar ,Attaquant,25,,6
+548,24,David,Wotherspoon ,Milieu,25,,6
+549,25,Derek,Cornelius ,Défenseur,25,,6
+550,26,Joel,Waterman ,Défenseur,25,,6
+551,1,Kasper,Schmeichel ,Gardien,25,,15
+552,2,Joachim,Andersen ,Défenseur,25,,15
+553,3,Victor,Nelsson ,Défenseur,25,,15
+554,4,Simon,Kjaer ,Défenseur,25,,15
+555,5,Joakim,Mæhle ,Défenseur,25,,15
+556,6,Andreas,Christensen ,Défenseur,25,,15
+557,7,Mathias,Jensen ,Milieu,25,,15
+558,8,Thomas,Delaney ,Milieu,25,,15
+559,9,Martin,Braithwaite ,Attaquant,25,,15
+560,10,Christian,Eriksen ,Milieu,25,,15
+561,11,Andreas,Skov,Attaquant,25,,15
+562,12,Kasper,Dolberg ,Attaquant,25,,15
+563,13,Rasmus,Kristensen ,Défenseur,25,,15
+564,14,Mikkel,Damsgaard ,Attaquant,25,,15
+565,15,Christian,Norgaard ,Milieu,25,,15
+566,16,Oliver,Christensen ,Gardien,25,,15
+567,17,Jens,Stryger,Défenseur,25,,15
+568,18,Daniel,Wass ,Milieu,25,,15
+569,19,Jonas,Wind ,Attaquant,25,,15
+570,20,Yussuf,Poulsen ,Attaquant,25,,15
+571,21,Andreas,Cornelius ,Attaquant,25,,15
+572,22,Frederik,Rönnow ,Gardien,25,,15
+573,23,Pierre-Emile,Hojbjerg ,Milieu,25,,15
+574,24,Robert,Skov ,Milieu,25,,15
+575,25,Jesper,Lindstrom ,Attaquant,25,,15
+576,26,Alexander,Bah ,Défenseur,25,,15
+577,1,Yassine,Bono ,Gardien,25,,5
+578,2,Achraf,Hakimi ,Défenseur,25,,5
+579,3,Noussair,Mazraoui ,Défenseur,25,,5
+580,4,Sofyan,Amrabat ,Milieu,25,,5
+581,5,Nayef,Aguerd ,Défenseur,25,,5
+582,6,Romain,Saiss ,Défenseur,25,,5
+583,7,Hakim,Ziyech ,Attaquant,25,,5
+584,8,Azzedine,Ounahi ,Milieu,25,,5
+585,9,Abderrazak,Hamdallah ,Attaquant,25,,5
+586,10,Anass,Zaroury ,Milieu,25,,5
+587,11,Abdelhamid,Sabiri ,Milieu,25,,5
+588,12,Munir,Mohamedi ,Gardien,25,,5
+589,13,Ilias,Chair ,Attaquant,25,,5
+590,14,Zakaria,Aboukhlal ,Attaquant,25,,5
+591,15,Selim,Amallah ,Milieu,25,,5
+592,16,Abdessamad,Ezzalzouli ,Attaquant,25,,5
+593,17,Sofiane,Boufal ,Attaquant,25,,5
+594,18,Jawad,ElYamiq,Défenseur,25,,5
+595,19,Youssef,En-Nesyri ,Attaquant,25,,5
+596,20,Achraf,Dari ,Défenseur,25,,5
+597,21,Walid,Cheddira ,Attaquant,25,,5
+598,22,Ahmed,Tagnaouti ,Gardien,25,,5
+599,23,Bilal,ElKhanous,Milieu,25,,5
+600,24,Badr,Benoun ,Défenseur,25,,5
+601,25,Yahia,Attiyat,Défenseur,25,,5
+602,26,Yahya,Jabrane ,Milieu,25,,5
+603,1,Wojciech,Szczesny ,Gardien,25,,25
+604,2,Matthew,Cash ,Défenseur,25,,25
+605,3,Artur,Jedrzejczyk ,Défenseur,25,,25
+606,4,Mateusz,Wieteska ,Défenseur,25,,25
+607,5,Jan,Bednarek ,Défenseur,25,,25
+608,6,Krystian,Bielik ,Milieu,25,,25
+609,7,Arkadiusz,Milik ,Attaquant,25,,25
+610,8,Damian,Szymanski ,Milieu,25,,25
+611,9,Robert,Lewandowski ,Attaquant,25,,25
+612,10,Grzegorz,Krychowiak ,Milieu,25,,25
+613,11,Kamil,Grosicki ,Milieu,25,,25
+614,12,Lukasz,Skorupski ,Gardien,25,,25
+615,13,Jakub,Kaminski ,Milieu,25,,25
+616,14,Jakub,Kiwior ,Défenseur,25,,25
+617,15,Kamil,Glik ,Défenseur,25,,25
+618,16,Karol,Swiderski ,Attaquant,25,,25
+619,17,Szymon,Zurkowski ,Milieu,25,,25
+620,18,Bartosz,Bereszynski ,Défenseur,25,,25
+621,19,Sebastian,Szymanski ,Milieu,25,,25
+622,20,Piotr,Zielinski ,Milieu,25,,25
+623,21,Nicola,Zalewski ,Défenseur,25,,25
+624,22,Kamil,Grabara ,Gardien,25,,25
+625,23,Krzysztof,Piatek ,Attaquant,25,,25
+626,24,Przemyslaw,Frankowski ,Milieu,25,,25
+627,25,Robert,Gumny ,Défenseur,25,,25
+628,26,Michal,Skoras ,Milieu,25,,25
+629,1,Saad,AlSheeb,Gardien,25,,11
+630,2,Pedro,Miguel,Défenseur,25,,11
+631,3,Abdelkarim,Hassan ,Défenseur,25,,11
+632,4,Mohammed,Waad ,Milieu,25,,11
+633,5,Tarek,Salman ,Défenseur,25,,11
+634,6,Abdulaziz,Hatem ,Milieu,25,,11
+635,7,Ahmed,Alaaeldin ,Attaquant,25,,11
+636,8,Ali,Asadalla ,Milieu,25,,11
+637,9,Mohamed,Muntari ,Attaquant,25,,11
+638,10,Hassan,Al-Haydos ,Attaquant,25,,11
+639,11,Akram,Afif ,Attaquant,25,,11
+640,12,Karim,Boudiaf ,Milieu,25,,11
+641,13,Musab,Kheder ,Défenseur,25,,11
+642,14,Homam,Ahmed ,Défenseur,25,,11
+643,15,Bassam,Al,Rawi ,11,,11
+644,16,Boualem,Khoukhi ,Défenseur,25,,11
+645,17,Ismaeel,Mohammad ,Milieu,25,,11
+646,18,Khalid,Muneer ,Attaquant,25,,11
+647,19,Almoez,Ali ,Attaquant,25,,11
+648,20,Salem,Al-Hajri ,Milieu,25,,11
+649,21,Yousef,Hassan ,Gardien,25,,11
+650,22,Meshaal,Barsham ,Gardien,25,,11
+651,23,Assim,Madibo ,Milieu,25,,11
+652,24,Naif,Alhadhrami ,Attaquant,25,,11
+653,25,Jassem,Gaber ,Défenseur,25,,11
+654,26,Mostafa,Meshaal ,Milieu,25,,11
+655,1,Seny,Dieng ,Gardien,25,,2
+656,2,Formose,Mendy ,Défenseur,25,,2
+657,3,Kalidou,Koulibaly ,Défenseur,25,,2
+658,4,Pape,Abou,Défenseur,25,,2
+659,5,Idrissa,Gueye ,Milieu,25,,2
+660,6,Nampalys,Mendy ,Milieu,25,,2
+661,7,Nicolas,Jackson ,Attaquant,25,,2
+662,8,Cheikhou,Kouyaté ,Milieu,25,,2
+663,9,Boulaye,Dia ,Attaquant,25,,2
+664,10,Moussa,Ndiaye ,Milieu,25,,2
+665,11,Pathé,Ciss ,Milieu,25,,2
+666,12,Fodé,Ballo-Touré ,Défenseur,25,,2
+667,13,Iliman,Ndiaye ,Attaquant,25,,2
+668,14,Ismail,Jakobs ,Défenseur,25,,2
+669,15,Krepin,Diatta ,Milieu,25,,2
+670,16,Edouard,Mendy ,Gardien,25,,2
+671,17,Pape,Matar,Milieu,25,,2
+672,17,Pape,Sarr ,Milieu,25,,2
+673,18,Ismaila,Sarr ,Attaquant,25,,2
+674,19,Famara,Diedhiou ,Attaquant,25,,2
+675,20,Bamba,Dieng ,Attaquant,25,,2
+676,21,Youssouf,Sabaly ,Défenseur,25,,2
+677,22,Abdou,Diallo ,Défenseur,25,,2
+678,23,Alfred,Gomis ,Gardien,25,,2
+679,24,Moustapha,Name ,Milieu,25,,2
+680,25,Mamadou,Ndiaye ,Défenseur,25,,2
+681,26,Pape,Gueye ,Milieu,25,,2
+682,1,Aymen,Mathlouthi ,Gardien,25,,4
+683,2,Bilel,Ifa ,Défenseur,25,,4
+684,3,Montassar,Talbi ,Défenseur,25,,4
+685,4,Yassine,Meriah ,Défenseur,25,,4
+686,5,Nader,Ghandri ,Défenseur,25,,4
+687,6,Dylan,Bronn ,Défenseur,25,,4
+688,7,Youssef,Msakni ,Attaquant,25,,4
+689,8,Hannibal,Mejbri ,Milieu,25,,4
+690,9,Issam,Jebali ,Attaquant,25,,4
+691,10,Wahbi,Khazri ,Attaquant,25,,4
+692,11,Taha,Yassine,Attaquant,25,,4
+693,12,Ali,Maaloul ,Défenseur,25,,4
+694,13,Ferjani,Sassi ,Milieu,25,,4
+695,14,Aïssa,Laïdouni ,Milieu,25,,4
+696,15,M.,Ali,Milieu,25,,4
+697,16,Aymen,Dahmen ,Gardien,25,,4
+698,17,Ellyes,Skhiri ,Milieu,25,,4
+699,18,Ghailene,Chaalali ,Milieu,25,,4
+700,19,Seifeddine,Jaziri ,Attaquant,25,,4
+701,20,Mohamed,Dräger ,Défenseur,25,,4
+702,21,Wajdi,Kechrida ,Milieu,25,,4
+703,22,Béchir,Ben,Gardien,25,,4
+704,23,Naim,Sliti ,Attaquant,25,,4
+705,24,Ali,Abdi ,Défenseur,25,,4
+706,25,Anis,Ben,Milieu,25,,4

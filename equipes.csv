@@ -1,0 +1,30 @@
+ID_EQUIPE,NOM_EQUIPE,CONTINENENT,DRAPEAU,ID_GROUPE
+1,Allemagne,Europe,,6
+2,Senegal,Afrique,,1
+3,Cameroun,Afrique,,7
+4,Tunisie,Afrique,,4
+5,Maroc,Afrique,,6
+6,Canada,Amérique,,6
+7,Etat-Unis,Amérique,,2
+8,Brésil,Amérique,,7
+9,Argentine,Amérique,,3
+10,Equateur,Amérique,,1
+11,Qatar,Asie,,1
+12,Iran,Asie,,2
+13,Japon,Asie,,5
+14,Arabie Saoudite,Asie,,3
+15,Danemark,Europe,,4
+16,France,Europe,,4
+17,Belgique,Europe,,6
+18,Croatie,Europe,,6
+19,Espagne,Europe,,5
+20,Serbie,Europe,,7
+21,Angletrre,Europe,,2
+22,Pays-Bas,Europe,,1
+23,Suisse,Europe,,7
+24,Pays de Galles,Europe,,2
+25,Pologne,Europe,,3
+26,Australie,Europe,,4
+27,Costa Rica,Amérique,,5
+28,Mexique,Amérique,,3
+29,Holanda,Europe,,1

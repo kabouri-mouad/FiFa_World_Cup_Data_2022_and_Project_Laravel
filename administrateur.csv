@@ -1,0 +1,4 @@
+ID_ADMIN,EMAIL_ADMIN,MDP_ADMIN,NOM_ADMIN,PRENOM_ADMIN,ROLE_ADMIN
+1,mouad@gmail.com,admin1,admin1,mouad,Rsp_gp
+2,ayoub@gmail.com,admin2,admin2,ayoub,Rsp_sqd
+3,anouar@gmail.com,admin3,admin3,anouar,Rsp_planf
